@@ -16,7 +16,7 @@ print(type(b))
 # c
 print(c)
 print(type(c))
-
+c = int(c)
 
 # d
 print(d)
